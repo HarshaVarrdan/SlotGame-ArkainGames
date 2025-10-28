@@ -1,5 +1,5 @@
 File structure :
-    -Assets 
+    --Assets 
         -Resources
             -Prefabs (Contains all the Prefabs used in game)
             -Sprites (Sprite used in game)
