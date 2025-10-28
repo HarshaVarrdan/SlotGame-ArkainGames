@@ -1,6 +1,6 @@
 File structure :
-    --Assets 
-        -Resources
+    Assets 
+        Resources
             -Prefabs (Contains all the Prefabs used in game)
             -Sprites (Sprite used in game)
         -Rock CLimber (UI Assets from Unity Asset Store)
