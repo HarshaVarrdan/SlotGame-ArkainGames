@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2842930481495339262
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7695721649192969262}
+  - component: {fileID: 8172917735598729395}
+  m_Layer: 0
+  m_Name: SymbolDatabase
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7695721649192969262
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2842930481495339262}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 555.75, y: 291.25, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8172917735598729395
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2842930481495339262}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b7a0c04ccd33644eae702c568dcaf6e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  symbols:
+  - type: 0
+    sprite: {fileID: 21300000, guid: ff01a5ad49e3ef34fa1cf8df065aa25a, type: 3}
+    weight: 10
+  - type: 1
+    sprite: {fileID: 21300000, guid: 2f8d3eb6cf6a0874387a4603dddedb52, type: 3}
+    weight: 9
+  - type: 2
+    sprite: {fileID: 21300000, guid: 6ea06772592991f4097f2270f73e5dd4, type: 3}
+    weight: 10
+  - type: 3
+    sprite: {fileID: 21300000, guid: 8b5950bf9e487c149be94a36f58f8d2c, type: 3}
+    weight: 7
+  - type: 4
+    sprite: {fileID: 21300000, guid: a6141d91539600447993f31258ee5922, type: 3}
+    weight: 7
+  - type: 4
+    sprite: {fileID: 21300000, guid: cae29ba6f798af549b187973a090a6c4, type: 3}
+    weight: 8
+  - type: 5
+    sprite: {fileID: 21300000, guid: 5bed094b601e93947ac728496afd125a, type: 3}
+    weight: 5
+  - type: 6
+    sprite: {fileID: 21300000, guid: ec081ab4c741c66409464f597bf7b4ca, type: 3}
+    weight: 7
+  - type: 7
+    sprite: {fileID: 21300000, guid: 858855095ee371c40b6b59ada02b82d2, type: 3}
+    weight: 8
+  - type: 8
+    sprite: {fileID: 21300000, guid: a0eb2c8458aa9df45b9ff225a9485ee2, type: 3}
+    weight: 9
+  - type: 9
+    sprite: {fileID: 21300000, guid: acdcce10013a197449ca42d110fad6c9, type: 3}
+    weight: 6
+  - type: 10
+    sprite: {fileID: 21300000, guid: 29d666650c89ebb418ea7f4fb6ecbfd0, type: 3}
+    weight: 2
+  - type: 11
+    sprite: {fileID: 21300000, guid: 10c9bf9cbceadc14bbab8de7489b33ee, type: 3}
+    weight: 2
